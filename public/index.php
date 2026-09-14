@@ -17,5 +17,13 @@
      <th>Nome</th>
      <th>Email</th>
     </table>
+<br><br>
+    <h2>lista de produtos</h2>
+    <table> 
+     <th>Nome</th>
+     <th>Descrição</th>
+     <th>Preço</th>
+    </table>
+
 </body>
 </html>
