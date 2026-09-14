@@ -8,13 +8,13 @@
     <h1>Loja da nicole</h1>
 
     <button type="button" onclick="window.location.href='../public/cad_user.php'">Cadastrar Cliente</button>
+    <button type="button" onclick="window.location.href='../public/cad_produto.php'">Cadastrar Produto</button>
     
     <br>
 
     <h2>lista de clientes</h2>
     <table> 
      <th>Nome</th>
-     <br>
      <th>Email</th>
     </table>
 </body>
