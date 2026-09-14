@@ -7,8 +7,14 @@
 <body>
     <h2>Loja da nicole</h2>
 
-    <button><a href="cad_user.php">Cadastrar usuário</a></button>
-    <button><a href="produtos.php">Cadastrar produtos</a></button>
+    <button type="button" onclick="window.location.href='../public/cad_user.php'">Cadastrar Cliente</button>
+    
+    <br>
 
+    <h1>lista de clientes</h1>
+    <table> 
+     <th>Nome</th>
+     <th>Email</th>
+    </table>
 </body>
 </html>
