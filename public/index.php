@@ -5,15 +5,16 @@
     <title>loja</title>
 </head>
 <body>
-    <h2>Loja da nicole</h2>
+    <h1>Loja da nicole</h1>
 
     <button type="button" onclick="window.location.href='../public/cad_user.php'">Cadastrar Cliente</button>
     
     <br>
 
-    <h1>lista de clientes</h1>
+    <h2>lista de clientes</h2>
     <table> 
      <th>Nome</th>
+     <br>
      <th>Email</th>
     </table>
 </body>
